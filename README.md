@@ -7,3 +7,5 @@ application.
 ## Installation manual
 
 Read more instructions at [Aidbox Documentation page](https://docs.aidbox.app/installation/setup-aidbox.dev)
+
+This version is withou ES
